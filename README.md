@@ -1,6 +1,6 @@
 # test-code
 
-broken.c:      
+broken.c     
 [![Build Status](http://140.211.168.153:8080/buildStatus/icon?job=broken-test)](http://140.211.168.153:8080/job/broken-test/)
 
 hello.c         
