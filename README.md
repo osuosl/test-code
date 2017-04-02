@@ -1,10 +1,7 @@
 # test-code
 
+[![Build Status](http://140.211.168.153:8080/buildStatus/icon?job=broken-test)](http://140.211.168.153:8080/job/broken-test/)
 
-[![Build Status](http://power-ci.osuosl.org:8080/buildStatus/icon?job=demo-build)]
-
-
-[![Build Status](http://140.211.168.153:8080/job/demo-build/badge/icon)](http://140.211.168.153:8080/job/demo-build)  
 
 [![Build Status](http://140.211.168.153:8080/buildStatus/icon?job=demo-build)](http://140.211.168.153:8080/job/demo-build/)
 
