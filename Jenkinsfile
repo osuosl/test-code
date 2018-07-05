@@ -1,4 +1,4 @@
-node {
+node ('master') {
     checkout scm
     num = new Random().nextInt() % 4 + 1
     docker.withServer("tcp://powerci-docker${num}.osuosl.bak:2375") {
